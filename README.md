@@ -1,4 +1,3 @@
-```markdown
 # Gravatar Image Fetcher
 
 This Python script allows you to fetch and download the Gravatar image of a user based on their email address. The image is saved to a specified directory.
